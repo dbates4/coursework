@@ -1,2 +1,2 @@
-# udacity-ml
-My code from udacity machine learning nanodegree projects
+# coursework
+My code from coursework
